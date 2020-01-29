@@ -1,0 +1,1 @@
+export const names="https://api.myjson.com/bins/1dlper"

@@ -1,0 +1,58 @@
+.topSticker{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.bWhite{
+    background: whitesmoke;
+}
+.flexR{
+    display: flex;
+    flex-direction: row;
+}
+.flexC{
+    display: flex;
+    flex-direction: column;
+}
+.fWrap{
+    flex-wrap: wrap;
+}
+.p1{
+    padding: 1em;
+}
+.m1{
+    margin: 1em;
+}
+.f1{
+    flex: 1;
+}
+.f12{
+    flex:12;
+}
+.boxShades{
+    box-shadow: 5px 7px 11px 0px;
+    border-radius: 1em;
+}
+.loading {
+     background: orange;
+}
+.w30{
+    flex: 1 1 30ch;
+}
+.centerFlex{
+    justify-content: space-between;
+}
+.pointer{
+    cursor: pointer;
+}
+.boxShades:hover{
+    box-shadow: 2px 2px 4px 0px;
+}
+
+.tBlack{
+    color: black;
+}
+
+.noDec{
+    text-decoration: none;
+}
